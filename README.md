@@ -15,3 +15,4 @@ Button 3: a download button for each of the new updated code files
 ## Submission:
 
 Submit a .zip file of the entire chrome extension directory
+Submit a document explaining incomplete features/difficulties if any.
