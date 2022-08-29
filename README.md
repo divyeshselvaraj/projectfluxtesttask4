@@ -1,7 +1,7 @@
 # Project Flux Test Task 4
 
 ## Time Limit: 
-5 days
+7 days
 
 ## Description:
 Create a Chrome extension with the following buttons:
